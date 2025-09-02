@@ -1,1 +1,3 @@
-# DATA-MINING
+# REPOSITORY MATA KULIAH DATA-MINING
+
+## Muhammad Hafidz Harridil Mahali (5025221030)
